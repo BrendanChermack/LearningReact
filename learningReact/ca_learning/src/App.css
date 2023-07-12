@@ -1,0 +1,7 @@
+html body{
+	background-color: #252525;
+}
+.App h1{
+	display: flex;
+	justify-content: center;
+}
